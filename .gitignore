@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.exe~
+bin/
+dist/
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Env
+.env
+.env.local
+
