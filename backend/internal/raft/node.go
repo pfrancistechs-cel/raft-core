@@ -304,3 +304,5 @@ func (n *Node) Status() NodeStatus {
 
 <!-- // Clamped election jitter between 150ms-300ms to avoid split votes
  -->
+
+<!-- // RequestVote term update -->
