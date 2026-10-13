@@ -306,3 +306,5 @@ func (n *Node) Status() NodeStatus {
  -->
 
 <!-- // RequestVote term update -->
+
+<!-- // AppendEntries log replication -->
