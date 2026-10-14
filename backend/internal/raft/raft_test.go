@@ -25,3 +25,5 @@ func TestRaftNodeInitialState(t *testing.T) {
 		t.Fatalf("expected term 0, got %d", status.CurrentTerm)
 	}
 }
+
+<!-- // Invariant test verification -->
