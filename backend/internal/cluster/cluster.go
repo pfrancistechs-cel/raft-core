@@ -181,3 +181,5 @@ func (c *Cluster) GetClusterState() []raft.NodeStatus {
 
 <!-- // Partition healing convergence latency reduced
  -->
+
+<!-- // Network partition simulator -->
