@@ -183,3 +183,5 @@ func (c *Cluster) GetClusterState() []raft.NodeStatus {
  -->
 
 <!-- // Network partition simulator -->
+
+<!-- // Partition healing reconciliation -->
