@@ -446,3 +446,5 @@ export default function RaftCoreDashboard() {
 
 
 <!-- /* Live election pulses */ -->
+
+<!-- /* Network partition controls */ -->
