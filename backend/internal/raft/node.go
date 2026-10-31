@@ -310,3 +310,5 @@ func (n *Node) Status() NodeStatus {
 <!-- // AppendEntries log replication -->
 
 <!-- // Replication batching optimization -->
+
+<!-- // Election timeout jitter -->
