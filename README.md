@@ -63,3 +63,5 @@ cd frontend && npm install && npm run dev
 <!-- Added failover latency benchmark specs. -->
 
 <!-- Raft consensus engine v1.0.0 verified. -->
+
+<!-- Proof of leader completeness invariant documented -->
