@@ -450,3 +450,5 @@ export default function RaftCoreDashboard() {
 <!-- /* Network partition controls */ -->
 
 <!-- /* Log replication inspector */ -->
+
+<!-- /* Node vector styling */ -->
