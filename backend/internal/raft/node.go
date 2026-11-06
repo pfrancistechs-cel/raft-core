@@ -312,3 +312,5 @@ func (n *Node) Status() NodeStatus {
 <!-- // Replication batching optimization -->
 
 <!-- // Election timeout jitter -->
+
+<!-- // Lock cleanup -->
