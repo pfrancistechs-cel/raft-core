@@ -67,3 +67,5 @@ cd frontend && npm install && npm run dev
 <!-- Proof of leader completeness invariant documented -->
 
 <!-- Benchmark: 12ms consensus commit latency -->
+
+<!-- API cURL docs added -->
