@@ -69,3 +69,5 @@ cd frontend && npm install && npm run dev
 <!-- Benchmark: 12ms consensus commit latency -->
 
 <!-- API cURL docs added -->
+
+<!-- RaftCore v1.0.0 release milestone -->
